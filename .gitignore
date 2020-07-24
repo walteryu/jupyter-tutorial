@@ -1,0 +1,7 @@
+*.zip
+git_stage.sh
+git_cached.sh
+check_repo.sh
+
+/*.html
+/.ipynb_checkpoints
