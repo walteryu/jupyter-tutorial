@@ -1,16 +1,16 @@
 # 01 - load python modules into notebook for later use
 
-# pandas modules for working with DataFrames
+# data analysis module
 import pandas as pd
 
-# numpy modules for data manipulation
+# data manipulation module
 import numpy as np
 
-# numpy modules for data visualization
+# data visualization module
 import matplotlib.pyplot as plt
 
-# import seaborn plotting module
+# enhanced data visualization
 import seaborn as sns
 
-# adjust plot settings to output correctly
+# adjust plot settings
 %matplotlib inline
